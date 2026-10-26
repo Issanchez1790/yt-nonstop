@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YT NonStop (personal)",
+  "name": "YT NonStop",
   "version": "1.0.0",
   "description": "Evita la pausa 'Video en pausa. ¿Quieres seguir viendo?' en YouTube y YouTube Music.",
   "content_scripts": [

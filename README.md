@@ -1,4 +1,4 @@
-# YT NonStop (personal)
+# YT NonStop
 
 ![YT NonStop: tu música no se detiene](docs/banner.png)
 

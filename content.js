@@ -1,4 +1,4 @@
-// YT NonStop (personal) — evita la pausa "Video en pausa. ¿Quieres seguir viendo?"
+// YT NonStop — evita la pausa "Video en pausa. ¿Quieres seguir viendo?"
 // Corre en el "MAIN world" de la página para poder tocar variables internas de YouTube.
 (() => {
   'use strict';
