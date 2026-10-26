@@ -1,5 +1,7 @@
 # YT NonStop (personal)
 
+![YT NonStop: tu música no se detiene](docs/banner.png)
+
 Extensión mínima para Chrome/Edge/Brave que evita que YouTube y YouTube Music pausen la reproducción con el aviso **"Video en pausa. ¿Quieres seguir viendo?"**.
 
 - Sin permisos especiales: solo se ejecuta en `www.youtube.com` y `music.youtube.com`.
