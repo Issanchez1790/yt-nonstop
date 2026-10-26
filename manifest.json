@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "YT NonStop (personal)",
+  "version": "1.0.0",
+  "description": "Evita la pausa 'Video en pausa. ¿Quieres seguir viendo?' en YouTube y YouTube Music.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://music.youtube.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
